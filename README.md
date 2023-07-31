@@ -1,4 +1,4 @@
-### Hi, welcome 😀
+### Hi, welcome :)
 My name is Ricardo. I'm a Full Stack Developer and I love to solve problems with Ruby on Rails, JavaScript and other technologies:
 
 <div style="display: inline_block"><br>
@@ -12,6 +12,8 @@ My name is Ricardo. I'm a Full Stack Developer and I love to solve problems with
   <img align="center" alt="ricardonovais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ricardonovais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+##
 
 ### Stats
 
